@@ -2,10 +2,6 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on [Next js](https://github.com/Hamza65523/chakra-nextjs)</p>
-
-###
-
 <p align="left">🌱 I’m currently learning Web 3.0 / Meta verse</p>
 
 ###
@@ -18,7 +14,7 @@
 
 ###
 
-<p align="left">🔭 Know about my experiences [Zeapp360 software house](Zeapp360 software house)</p>
+<p align="left">🔭 Know about my experiences Zeapp360 software house</p>
 
 ###
 
