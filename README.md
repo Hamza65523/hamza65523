@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is .Muhammad Hamza and I'm a MErn stack developer from Pakistan.</h2>
+<h2 align="center">Hi 👋! My name is .Muhammad Hamza and I'm a Mern stack developer from Pakistan.</h2>
 
 ###
 
