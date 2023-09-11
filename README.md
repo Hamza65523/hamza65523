@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is .Muhammad Hamza and I'm a Mern stack developer from Pakistan.</h2>
+<h2 align="center">Hi 👋! My name is Muhammad Hamza and I'm a Full stack developer from Pakistan.</h2>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">👨‍💻 All of my projects are available at https://hamza65523.github.io/Portfolio/</p>
+<p align="left">👨‍💻 All of my projects are available at https://hamza65523portfolio.netlify.app/</p>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">🔭 Know about my experiences Zeapp360 software house</p>
+<p align="left">🔭 Know about my experiences Thinc Health software house</p>
 
 ###
 
